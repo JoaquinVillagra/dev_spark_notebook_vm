@@ -3,12 +3,13 @@
 Virtual machine for development. Jupyter Notebook configurated and shared folder for file pass between local host y virtual machine enviroment. 
 
 ## Steps:
---
-	- Clone this repository
-	- In the principal folder run `vagrant up` and wait for finish process.
-	- Run `vagrant ssh` command for login in VM
-	- Run `jupyter notebook`, copy the url access in browser application
-	- In case of any error: In the `Vagranfile` you will see the command secuence for apply all necesary configuration
+--------------------------------------------------------------
+
+- Clone this repository
+- In the principal folder run `vagrant up` and wait for finish process.
+- Run `vagrant ssh` command for login in VM
+- Run `jupyter notebook`, copy the url access in browser application
+- In case of any error: In the `Vagranfile` you will see the command secuence for apply all necesary configuration
 
 
 ## The config command secuence, in linux enviroment, is:
